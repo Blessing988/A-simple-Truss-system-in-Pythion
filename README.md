@@ -1,1 +1,1 @@
-# A-simple-Truss-system-in-Pythion
+# A-simple-Truss-system-in-Python
