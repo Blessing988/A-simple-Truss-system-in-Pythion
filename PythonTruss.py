@@ -160,18 +160,3 @@ class Analysis:
             plt.plot([x1, y1], [x2, y2], "ko")
             plt.plot([x1, y1], [x2, y2])
         plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
